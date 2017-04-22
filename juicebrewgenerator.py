@@ -32,7 +32,7 @@ terms = []
 titles = ["Welcome to the Trinity Nodes - the most lit sector in the multiverse"]
 metadesc = ["Welcome to the Trinity Nodes - the most lit sector in the multiverse"]
 authors = ["Trinity Soulstars - https://github.com/trinitysoulstars"]
-videos = ['<img src="http://trinitysoulstars.com/wp-content/uploads/2017/02/Trinity_Soulstars_Homepage_Logo.png" />']
+videos = ['<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/281665548&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>']
 boldwords = {
         "Juice Brew": "http://juicebrew.life",
         }
